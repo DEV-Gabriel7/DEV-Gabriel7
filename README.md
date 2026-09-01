@@ -11,8 +11,14 @@ Apaixonado por tecnologia, inteligência artificial e desenvolvimento de softwar
 🤝 Conecto ideias e tecnologias para gerar resultados reais.
 
 <div style='display: flex'>
-  <img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api/top-langs/?username=DEV-Gabriel7&layout=compact&langs_count=7&theme=dark&card_width=400" />
-  <img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api?username=DEV-Gabriel7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400" />
+  <img
+    height="180em"
+    src="https://github-readme-stats-f6ogic0zm-gabriels-projects-401a40d5.vercel.app/api/top-langs/?username=DEV-Gabriel7&layout=compact&langs_count=7&theme=dark&card_width=400"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-f6ogic0zm-gabriels-projects-401a40d5.vercel.app/api?username=DEV-Gabriel7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400"
+  />
 </div>
 
 ### Habilidades 
